@@ -25,6 +25,7 @@
 </code></pre>
 <br>
 2、自定义ImageView，为了不断设置画布的偏移。
+<pre><code>
 public class AdImageView extends AppCompatImageView {
     private static final String TAG = "AdImageView";
 
@@ -69,3 +70,11 @@ public class AdImageView extends AppCompatImageView {
         canvas.restore();
     }
 }
+</code></pre>
+<br>
+## 注意
+<br>
+ImageView的ScapleType 要设置成 matrix
+
+# 结束
+
