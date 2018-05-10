@@ -2,7 +2,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/hongyangAndroid/demo_rvadimage/master/anim1.gif" width=320 height=500>
 <br>
-<h3>实现思路<h3><br>
+<h3>实现思路</h3><br>
 1、监听列表滑动并计算图片Item的滑动距离
 <pre><code>
         rvView.addOnScrollListener(new RecyclerView.OnScrollListener() {
