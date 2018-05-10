@@ -72,8 +72,7 @@ public class AdImageView extends AppCompatImageView {
 }
 </code></pre>
 <br>
-## 注意
-<br>
+## 注意！！！
 ImageView的ScapleType 要设置成 matrix
 
 # 结束
